@@ -1,0 +1,17 @@
+body{
+    background-color: #dddddd;
+}
+.tooltip {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 8px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  h2{
+    text-align: center;
+    color: red;
+  }
+  
